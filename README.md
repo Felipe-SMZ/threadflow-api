@@ -167,7 +167,7 @@ spring.jpa.hibernate.ddl-auto=update
 spring.jpa.show-sql=false
 spring.jpa.properties.hibernate.format_sql=true
 # JWT
-jwt.secret=404E635266556A586E3272357538782F413F4428472B4B6250645367566B5970
+jwt.secret=${JWT_SECRET}
 jwt.expiration=86400000
 # Server
 server.port=8080
