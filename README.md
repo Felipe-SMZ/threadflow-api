@@ -121,8 +121,8 @@ Antes de começar, você precisa ter instalado:
 1. **Clone o repositório**
 
 ```bash
-git clone https://github.com/seu-usuario/threadflow.git
-cd threadflow
+git clone https://github.com/Felipe-SMZ/threadflow-api
+cd threadflow-api
 ```
 
 2. **Crie o banco de dados PostgreSQL**
